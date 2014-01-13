@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NUnitUtilities.SamplingDecorator</id>
+    <version>1.0.0.1</version>
+    <authors>asipe</authors>
+    <owners>asipe</owners>
+    <licenseUrl>https://github.com/asipe/NUnitUtilities/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/asipe/NUnitUtilities</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NUnit test decorator which samples the tests so that only a percentage of the actual tests are executed.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>nunit</tags>
+    <dependencies/>
+  </metadata>
+</package>
