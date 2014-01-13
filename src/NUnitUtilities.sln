@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitUtilities.SamplingDecorator", "NUnitUtilities.SamplingDecorator\NUnitUtilities.SamplingDecorator.csproj", "{DD826831-2F05-4BE2-95E8-B90C736250BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "license", "license", "{541A35CD-D2C6-4B20-96E9-36BB4445F3B3}"
+	ProjectSection(SolutionItems) = preProject
+		..\LICENSE = ..\LICENSE
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD826831-2F05-4BE2-95E8-B90C736250BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD826831-2F05-4BE2-95E8-B90C736250BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD826831-2F05-4BE2-95E8-B90C736250BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD826831-2F05-4BE2-95E8-B90C736250BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
