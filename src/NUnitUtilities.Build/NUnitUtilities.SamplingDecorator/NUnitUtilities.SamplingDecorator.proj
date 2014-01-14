@@ -13,7 +13,9 @@
 
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="$(CommonPackagesDir)\nunit.runners\tools\lib\nunit.core.interfaces.dll"/>
+    <Reference Include="$(CommonPackagesDir)\nunit.runners\tools\lib\nunit.core.interfaces.dll">
+      <Private>False</Private>
+    </Reference>
   </ItemGroup>
 
   <ItemGroup>
